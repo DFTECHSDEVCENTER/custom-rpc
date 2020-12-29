@@ -1,0 +1,18 @@
+{
+  "name": "custom-rpc",
+  "version": "1.0.0",
+  "description": "An Custom Discord RPC Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-rpc",
+    "dftechs"
+  ],
+  "author": "BRAVO68WEB",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
